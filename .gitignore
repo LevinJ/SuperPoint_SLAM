@@ -1,0 +1,12 @@
+.cproject
+.project
+.pydevproject
+build/
+lib/
+Examples/Monocular/mono_euroc
+Examples/Monocular/mono_kitti
+Examples/Monocular/mono_tum
+KeyFrameTrajectory.txt
+Vocabulary/
+data_odometry_gray/
+
